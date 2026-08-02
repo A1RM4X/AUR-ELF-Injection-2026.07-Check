@@ -4,7 +4,7 @@ Quick detection script for the **July 2026 AUR ELF injection campaign**.
 
 ## Background
 
-On July 30, 2026, Saren posted on the Arch Linux AUR-general mailing list reporting that AUR packages contained malicious ELF binaries embedded directly in their source/build trees. The official list of **57 affected packages** (updated August 1, 2026) was published by Antiz (sakaru) on [GitHub](https://gist.github.com/sakaru/b06b9a28f188ac737a3a96b017b610d2).
+On July 30, 2026, Saren posted on the Arch Linux AUR-general mailing list reporting that AUR packages contained malicious ELF binaries embedded directly in their source/build trees. The official list of **59 affected packages** (updated August 1, 2026) was published by Antiz (sakaru) on [GitHub](https://gist.github.com/sakaru/b06b9a28f188ac737a3a96b017b610d2).
 
 **Current status (July 31, 2026):** All infected PKGBUILDs have been cleaned up. Adoption for packages is temporarily disabled while the AUR team works on making the process more robust.
 

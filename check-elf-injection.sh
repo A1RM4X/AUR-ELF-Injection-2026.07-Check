@@ -13,13 +13,13 @@
 INFECTED=(
   accounts-qml-module-bin aic94xx-firmware-bin arch-update-bin
   aurscan-manticore-release-git-bin aur-scanner-bin aur-sync-vote-bin
-  aurutils-bin botan2-bin bridge-utils-bin byobu-bin display-modes-git-bin
-  fsearch-bin fvs2-bin gnu-netcat-bin grub-customizer-bin gtk2-bin
-  gtk2-ng-git-bin gtk-engine-murrine-bin hexchat-bin howdy-next-bin
+  aurutils-bin botan2-bin bridge-utils-bin byobu-bin debtap-bin
+  display-modes-git-bin fsearch-bin fvs2-bin gnu-netcat-bin grub-customizer-bin
+  gtk2-bin gtk2-ng-git-bin gtk-engine-murrine-bin hexchat-bin howdy-next-bin
   http-parser-bin hyprclip-git-bin hyprkeys-git-bin jellium-desktop-git-bin
   lib32-sdl2_image-bin libkolabxml-bin linux-cachyos-bin mangowm-bin
   mbedtls2-bin noctalia-git-bin nomacs-bin octopi-bin onedrive-abraunegg-bin
-  openssl-1.1-bin paru-git-bin plasma6-applets-appgrid-bin
+  openssl-1.1-bin pandoc-eisvogel-template paru-git-bin plasma6-applets-appgrid-bin
   plasma6-applets-panel-colorizer-bin proton-rtsp pwvucontrol-bin
   python-inputs-bin python-steam-bin qt5-location-bin qt5-sensors-bin
   qt5-websockets-bin quick-control-git-bin rclone-browser-bin rmlint-bin
